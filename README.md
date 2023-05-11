@@ -55,3 +55,8 @@ for prefix in $prefixes; do
 done
 ```
 
+### Notes on use
+* contains sections in modern and early modern Dutch
+* the sections in early modern Dutch are on Arabic numbered pages 
+* contains footnotes
+
